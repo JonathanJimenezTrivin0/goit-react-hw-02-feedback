@@ -1,0 +1,12 @@
+.category {
+  padding: 30px;
+  width: 300px;
+  height: fit-content;
+  margin: 50px auto;
+  border-radius: 20px;
+  text-align: center;
+  background-color: #fff;
+  box-shadow: 10px 10px 5px 0px rgba(76, 161, 175, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(76, 161, 175, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(76, 161, 175, 0.75);
+}
